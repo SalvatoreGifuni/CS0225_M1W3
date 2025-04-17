@@ -1,0 +1,23 @@
+// Primo esercizio
+
+abcdefghilmnopqrstuvz
+uvzabcdefghilmnopqrstuvz
+
+EPICODE
+
+
+// Secondo esercizio
+
+QWJhIHZ6b2VidHI2bmdyHB1ciB6ciBucHBiZXRi
+
+Sistema di codifica base64, restituisce:
+
+Aba vzoebtyvngr pur zr ar nppbetb
+
+cifratura ROT13 o cesare con x = 13
+
+Normale:  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z  
+ROT13:    N O P Q R S T U V W X Y Z A B C D E F G H I J K L M
+
+Non imbrogliate che me ne accorgo
+
